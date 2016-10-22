@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" STUDENT LIST "
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="28dp"
+        android:layout_marginTop="10dp"
+
+        android:layout_marginBottom="20dp"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 1.  Student 1 "
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 2.  Student 2 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 3.  Student 3 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 4.  Student 4 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 5.  Student 5 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 6.  Student 6 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 7.  Student 7 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 8.  Student 8 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 9.  Student 9 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text=" 10.  Student 10 "
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack"/>
+
+</LinearLayout>
