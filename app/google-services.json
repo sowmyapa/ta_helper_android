@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "156670583096-b9mnbt59qct6ejbb1t9vul61mfb6praq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cs442.team4.tahelper",
+            "certificate_hash": "0CA8EE568888F88CA442EAB7DBA70690406ED035"
+          }
+        },
+        {
           "client_id": "156670583096-0i19jg6b159pbdi31ras8nlgo5gq86li.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
